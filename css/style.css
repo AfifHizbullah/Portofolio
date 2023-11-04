@@ -87,7 +87,7 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-  background: url('/images/bg.jpg');
+  background: url('https://raw.githubusercontent.com/AfifHizbullah/Portofolio/master/images/bg.jpg');
   background-size: cover;
   background-position: center;
 }
